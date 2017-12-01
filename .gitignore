@@ -1,0 +1,13 @@
+/build/
+/benchpress-build/
+.DS_Store
+*~
+*.swp
+node_modules/
+bower_components/
+angular.xcodeproj
+*.iml
+npm-debug.log
+/tmp/
+*.log
+*.stackdump
